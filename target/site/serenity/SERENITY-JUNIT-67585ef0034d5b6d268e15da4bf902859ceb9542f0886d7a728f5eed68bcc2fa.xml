@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="WhenPlanningATrip" skipped="0" tests="1" time="0.0" timestamp="2019-08-14 02:59:38"><testcase classname="WhenPlanningATrip" name="Initialisation"><error message="net.thucydides.core.steps.StepEventBus.initialiseSession()V" type="java.lang.NoSuchMethodError">net.thucydides.core.steps.StepEventBus.initialiseSession()V</error><system-err>net.thucydides.core.steps.StepEventBus.initialiseSession()V&#13;
+</system-err></testcase></testsuite>

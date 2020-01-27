@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="WhenPlanningATrip" skipped="0" tests="1" time="0.92" timestamp="2019-08-226 01:17:12"><testcase classname="WhenPlanningATrip" name="Booking a simple trip"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#13;
+WhenPlanningATrip.booking_a_simple_trip(WhenPlanningATrip.java:31)&#13;
+</system-err></testcase></testsuite>

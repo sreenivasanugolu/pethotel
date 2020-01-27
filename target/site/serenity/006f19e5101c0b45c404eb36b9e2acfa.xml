@@ -1,0 +1,12 @@
+<acceptance-test-run title="Booking a simple trip" name="booking_a_simple_trip" steps="1" successful="0" failures="0" errors="1" skipped="0" ignored="0" pending="0" annotated-result="ERROR" result="ERROR" duration="917" timestamp="2019-08-14T13:17:12.688+05:30" test-source="JUnit">
+  <user-story id="WhenPlanningATrip" name="When planning a trip" path=""/>
+  <tags>
+    <tag name="When planning a trip" type="story"/>
+  </tags>
+  <test-step result="ERROR" duration="98">
+    <description>Tracey opens the Home page</description>
+    <error>net.thucydides.core.webdriver.UnsupportedDriverException: Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error>
+    <exception>net.thucydides.core.webdriver.UnsupportedDriverException:Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#xd;
+[WhenPlanningATrip.booking_a_simple_trip(WhenPlanningATrip.java:31)]</exception>
+  </test-step>
+</acceptance-test-run>
